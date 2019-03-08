@@ -1,3 +1,3 @@
 # YiDanStone-Workflow
 
-Team: (DanieSegarra36)[https://github.com/yizongk] (maintainer), yizongk (contributor), stonemoore2 (contributor)
+Team: [DanieSegarra36](https://github.com/DanieSegarra36) (maintainer), [yizongk](https://github.com/yizongk) (contributor), [stonemoore2](https://github.com/stonemoore2) (contributor)
